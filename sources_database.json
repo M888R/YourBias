@@ -1,0 +1,266 @@
+[
+    {
+      "url" : "Patriobotics",
+      "score" : -100
+    },
+    {
+      "url" : "palmerreport",
+      "score" : -90
+    },
+    {
+      "url" : "bipartisanreport",
+      "score" : -80
+    },
+    {
+      "url" : "davidwolfe",
+      "score" : -83
+    },
+    {
+      "url" : "alternet",
+      "score" : -67
+    },
+    {
+      "url" : "dailykos",
+      "score" : -70
+    },
+    {
+      "url" : "newrepublic",
+      "score" : -80
+    },
+    {
+      "url" : "secondnexus",
+      "score" : -67
+    },
+    {
+      "url" : "buzzfeednews",
+      "score" : -50
+    },
+    {
+      "url" : "huffingtonpost",
+      "score" : -60
+    },
+    {
+      "url" : "msnbc",
+      "score" : -50
+    },
+    {
+      "url" : "motherjones",
+      "score" : -57
+    },
+    {
+      "url" : "mic",
+      "score" : -50
+    },
+    {
+      "url" : "vanityfair",
+      "score" : -33
+    },
+    {
+      "url" : "thedailybeast",
+      "score" : -57
+    },
+    {
+      "url" : "slate",
+      "score" : -60
+    },
+    {
+      "url" : "vox",
+      "score" : -40
+    },
+    {
+      "url" : "theintercept",
+      "score" : -67
+    },
+    {
+      "url" : "theatlantic",
+      "score" : -47
+    },
+    {
+      "url" : "theweek",
+      "score" : -30
+    },
+    {
+      "url" : "thenation",
+      "score" : -47
+    },
+    {
+      "url" : "newyorker",
+      "score" : -30
+    },
+    {
+      "url" : "democracynow",
+      "score" : -53
+    },
+    {
+      "url" : "theguardian",
+      "score" : -17
+    },
+    {
+      "url" : "washingtonpost",
+      "score" : -17
+    },
+    {
+      "url" : "nytimes",
+      "score" : -17
+    },
+    {
+      "url" : "cnn",
+      "score" : -13
+    },
+    {
+      "url" : "axios",
+      "score" : -23
+    },
+    {
+      "url" : "politico",
+      "score" : -27
+    },
+    {
+      "url" : "npr",
+      "score" : -13
+    },
+    {
+      "url" : "bbc",
+      "score" : -13
+    },
+    {
+      "url" : "nbcnews",
+      "score" : -10
+    },
+    {
+      "url" : "afp",
+      "score" : -7
+    },
+    {
+      "url" : "ap",
+      "score" : -3
+    },
+    {
+      "url" : "abcnews",
+      "score" : 0
+    },
+    {
+      "url" : "usatoday",
+      "score" : 0
+    },
+    {
+      "url" : "time",
+      "score" : 10
+    },
+    {
+      "url" : "reuters",
+      "score" : 10
+    },
+    {
+      "url" : "bloomberg",
+      "score" : 10
+    },
+    {
+      "url" : "cbsnews",
+      "score" : 10
+    },
+    {
+      "url" : "pbs",
+      "score" : 13
+    },
+    {
+      "url" : "csmonitor",
+      "score" : 13
+    },
+    {
+      "url" : "wsj",
+      "score" : 20
+    },
+    {
+      "url" : "foreignpolicy",
+      "score" : 17
+    },
+    {
+      "url" : "economist",
+      "score" : 17
+    },
+    {
+      "url" : "thehill",
+      "score" : 33
+    },
+    {
+      "url" : "thefiscaltimes",
+      "score" : 37
+    },
+    {
+      "url" : "nationalreview",
+      "score" : 50
+    },
+    {
+      "url" : "weeklystandard",
+      "score" : 50
+    },
+    {
+      "url" : "reason",
+      "score" : 50
+    },
+    {
+      "url" : "theexaminernews",
+      "score" : 50
+    },
+    {
+      "url" : "washingtontimes",
+      "score" : 50
+    },
+    {
+      "url" : "theamericanconservative",
+      "score" : 70
+    },
+    {
+      "url" : "thefederalist",
+      "score" : 70
+    },
+    {
+      "url" : "oann",
+      "score" : 77
+    },
+    {
+      "url" : "drudgereport",
+      "score" : 73
+    },
+    {
+      "url" : "nypost",
+      "score" : 50
+    },
+    {
+      "url" : "dailymail",
+      "score" : 30
+    },
+    {
+      "url" : "foxnews",
+      "score" : 73
+    },
+    {
+      "url" : "dailywire",
+      "score" : 73
+    },
+    {
+      "url" : "dailycaller",
+      "score" : 63
+    },
+    {
+      "url" : "westernjournal",
+      "score" : 83
+    },
+    {
+      "url" : "newsmax",
+      "score" : 67
+    },
+    {
+      "url" : "redstate",
+      "score" : 67
+    },
+    {
+      "url" : "theblaze",
+      "score" : 67
+    },
+    {
+      "url" : "infowars",
+      "score" : 100
+    }
+  ]  
