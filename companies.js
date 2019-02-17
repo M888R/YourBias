@@ -24,6 +24,9 @@ async function loadCompanies() {
     } else if (score < -50) { // extreme liberal
         supportCompanies = companies.extremeliberal;
         againstCompanies = companies.extremeconservative;
+    } else { // this is california
+        supportCompanies = companies.somewhatliberal;
+        againstCompanies = companies.somewhatconservative;
     }
 
     for (var i = 0; i < supportCompanies.length; i++) {
