@@ -11,7 +11,14 @@
         "persistent": false
     },
     "browser_action": {
-        "default_popup": "menu.html"
+        "default_popup": "menu.html",
+        "default_icon": {
+            "128": "logo.png"
+        }
     },
+    "content_scripts": [{
+        "js": ["menu.js", "feedback.js"],
+        "matches": ["http://*/*", "https://*/*"]
+    }],
     "manifest_version": 2
 }
