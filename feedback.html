@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="feedback.css">
+</head>
+<body>
+  <div id="scorediv">
+    <span id="score"></span>
+    <h1>User Opinions</h1>
+    <p1>Submit any new companies you would like to add to our extension!</p1>
+    <form action="/action_page.php">
+  <label for="cname">Company Name</label> <br>
+  <input type="text" id="cname" name="Company Name"> <br>
+
+  <label for="alignment">Political Alignment</label> <br>
+  <select id="alignment" name="alignment">
+    <option value="extremeL">Extremely Liberal</option>
+    <option value="somewhatL">Somewhat Liberal</option>
+    <option value="middle">Unbiased</option>
+    <option value="extremeC">Somewhat Conservative</option>
+    <option value="somewhatC">Extremely Conservative</option>
+  </select> <br>
+
+  <input type="submit" value="Submit">
+</form>
+  </div>
+</body>
+
+</html>
