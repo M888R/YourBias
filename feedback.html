@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="feedback.css">
+<style>
+p.double {border-style: double;}
+body {
+background-color: lightskyblue;
+
+.square {
+  height: 1000px;
+  width: 1000px;
+  background-color: black;
+}
+</style>
 </head>
 <body>
+<div class="square">
   <div id="scorediv">
     <span id="score"></span>
     <h1>User Opinions</h1>
-    <p1>Submit any new companies you would like to add to our extension!</p1>
-    <form id="ContactForm">
+    <p1 class="double">Submit any new companies you would like to add to our extension!</p1>
+    <form action="/action_page.php">
   <label for="cname">Company Name</label> <br>
   <input type="text" id="cname" name="Company Name"> <br>
-
   <label for="alignment">Political Alignment</label> <br>
   <select id="alignment" name="alignment">
     <option value="extremeL">Extremely Liberal</option>
@@ -21,11 +33,24 @@
     <option value="somewhatC">Extremely Conservative</option>
   </select> <br>
 
-  <input type="submit" value="Submit">
+  <a href="thankyou.html">Submit</a>
+
 </form>
   </div>
+</div>
   <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-  <script src="feedback.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyCRIvCVd7eYQrg1lg0c67rXNEwxrN7hbbw",
+      authDomain: "yourbias-ff39c.firebaseapp.com",
+      databaseURL: "https://yourbias-ff39c.firebaseio.com",
+      projectId: "yourbias-ff39c",
+      storageBucket: "yourbias-ff39c.appspot.com",
+      messagingSenderId: "205620334454"
+    };
+    firebase.initializeApp(config);
+  </script>
 </body>
 
 </html>
