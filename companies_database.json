@@ -1,0 +1,28 @@
+{
+  "extremeliberal": [
+    "Starbucks",
+    "Amazon",
+    "McDonalds"
+  ],
+  "somewhatliberal": [
+    "Netflix",
+    "Apple",
+    "Vans",
+    "Adidas",
+    "United Airlines",
+    "Disney",
+    "Bestbuy",
+    "eBay"
+  ],
+  "somewhatconservative": [
+    "Waffle House",
+    "Papa Johns",
+    "Bass Pro Shop",
+    "ACE Hardware"
+  ],
+  "extremeconservative": [
+    "Hobby Lobby",
+    "Chick-fil-a",
+    "Salvation Army"
+  ]
+}
