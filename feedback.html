@@ -21,7 +21,14 @@
     <option value="somewhatC">Extremely Conservative</option>
   </select> <br>
 
-  <input type="submit" value="Submit">
+  <input type="submit" value="Submit" onclick="submitted()">
+  <p type="text" id="confirmation"></p>
+
+  <script>
+    function submitted() {
+      document.getElementById('confirmation').innerHTML = 'Thank You!';
+    }
+  </script>
 </form>
   </div>
   <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
