@@ -36,10 +36,3 @@ chrome.history.onVisited.addListener(async function (result) {
         }
     }
 });
-
-chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([{
-        conditions: [],
-        actions: [new chrome.declarativeContent.ShowPageAction()]
-    }]);
-});  
